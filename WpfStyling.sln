@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfStyledApp", "WpfStyledApp\WpfStyledApp.csproj", "{BAE8B290-C5DF-407D-AA77-F70D979ABFE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeLight", "ThemeLight\ThemeLight.csproj", "{8C770AC7-E73B-4E9E-B587-22717AFA066B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controls", "Controls\Controls.csproj", "{A9E4C380-D908-4366-944F-A525B017E62E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAE8B290-C5DF-407D-AA77-F70D979ABFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE8B290-C5DF-407D-AA77-F70D979ABFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE8B290-C5DF-407D-AA77-F70D979ABFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE8B290-C5DF-407D-AA77-F70D979ABFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C770AC7-E73B-4E9E-B587-22717AFA066B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C770AC7-E73B-4E9E-B587-22717AFA066B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C770AC7-E73B-4E9E-B587-22717AFA066B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C770AC7-E73B-4E9E-B587-22717AFA066B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E4C380-D908-4366-944F-A525B017E62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E4C380-D908-4366-944F-A525B017E62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E4C380-D908-4366-944F-A525B017E62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E4C380-D908-4366-944F-A525B017E62E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
